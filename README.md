@@ -1,3 +1,4 @@
+By - Raj Bhadauria (Dtu)
 #  Django Notes App - Dockerized with Nginx, MySQL
 
 This is a **Dockerized Django Notes App** deployed using **Docker Compose** with a **3-tier architecture**:
