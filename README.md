@@ -1,4 +1,6 @@
-By - Raj Bhadauria (Dtu)
+**Built by:** Raj Bhadauria  
+**LinkedIn:** [linkedin.com/in/raj-bhadauria-58924219b](https://www.linkedin.com/in/raj-bhadauria-58924219b/)
+
 #  Django Notes App - Dockerized with Nginx, MySQL
 
 This is a **Dockerized Django Notes App** deployed using **Docker Compose** with a **3-tier architecture**:
