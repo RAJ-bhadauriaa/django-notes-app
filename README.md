@@ -65,6 +65,9 @@ This pipeline uses a Jenkins Shared Library for common reusable functions (like 
 
 ---
 
-<p align="center">
-  <img src="https://i.ibb.co/wZ24z40d/pipleine-cleanup-1.png" alt="Jenkins CI/CD Pipeline Architecture" width="750">
-</p>
+<img width="720" height="403" alt="pipleine_cleanup (1)" src="https://github.com/user-attachments/assets/830922bc-54df-499a-9309-07e60c123e0f" />
+
+
+
+<img width="951" height="604" alt="Screenshot 2025-10-28 032934" src="https://github.com/user-attachments/assets/456ff69f-2e4e-4f4a-aeaf-9d0f3fc904c8" />
+
