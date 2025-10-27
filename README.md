@@ -45,3 +45,26 @@ docker-compose up --build
 Now the application will work on <public_ip>:8080/      -as nginix will listen on 8080 port as configured on compose file.
 
 
+
+---
+
+##  🚀 CI/CD Pipeline with Jenkins
+
+Later, a Jenkinsfile was added to automate the build and deployment process.
+The CI/CD pipeline performs the following stages:
+
+Code Checkout – Pulls code from GitHub.
+
+Build – Builds Docker images for the Django app and Nginx.
+
+Push to DockerHub – Pushes built images to DockerHub registry.
+
+Deploy – Deploys the updated containers on the Azure VM.
+
+This pipeline uses a Jenkins Shared Library for common reusable functions (like Docker login, image tagging, and deployment).
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/wZ24z40d/pipleine-cleanup-1.png" alt="Jenkins CI/CD Pipeline Architecture" width="750">
+</p>
